@@ -1,0 +1,27 @@
+{
+  "name": "simple-checksum-code-generator",
+  "version": "1.0.0",
+  "description": "A package for generating  and verfiying simple, checksummed codes - for use as quickly verifiable coupon codes or similar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IWantPizza/simple-checksum-code-generator.git"
+  },
+  "keywords": [
+    "typescript",
+    "checksum",
+    "generator",
+    "coupon",
+    "code",
+    "verifier"
+  ],
+  "author": "Hasan Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IWantPizza/simple-checksum-code-generator/issues"
+  },
+  "homepage": "https://github.com/IWantPizza/simple-checksum-code-generator#readme"
+}
