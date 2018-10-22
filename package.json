@@ -1,6 +1,6 @@
 {
   "name": "@iwantpizza/simple-checksum-code-generator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An NPM package for generating and verifying simple, checksummed codes - for use as quickly verifiable coupon codes or similar.",
   "main": "index.js",
   "scripts": {
